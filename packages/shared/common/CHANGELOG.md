@@ -2,6 +2,13 @@
 
 All notable changes to `@launchdarkly/js-sdk-common` will be documented in this file. This project adheres to [Semantic Versioning](http://semver.org).
 
+## [2.27.0](https://github.com/launchdarkly/js-core/compare/js-sdk-common-v2.26.1...js-sdk-common-v2.27.0) (2026-09-28)
+
+
+### Features
+
+* add a reusable retry state controller for RETRY-conformant backoff ([#2045](https://github.com/launchdarkly/js-core/issues/2045)) ([721b559](https://github.com/launchdarkly/js-core/commit/721b559ff15bb13e3344921de9539e2663d0f0c8))
+
 ## [2.26.1](https://github.com/launchdarkly/js-core/compare/js-sdk-common-v2.26.0...js-sdk-common-v2.26.1) (2026-09-22)
 
 
